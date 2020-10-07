@@ -1,0 +1,8 @@
+whatsapp chat-api
+
+step:1 -- go to goole the write chat-api.com 
+step:2 -- login vai your email    free trial 3 days otherwise 39$/monthly payment
+step:3 -- click on regular authorization now open whatsapp QR code then scan now through whatsapp web
+step:4 -- after completing your authorization then your status will be greeen 
+step:5 -- below status genterate automatically Your API URL and token link 
+          its chat API work based on web apps so if don't access whatsapp web any place within work on this server/after login otherwise this server automatically block this number so please never access any place through whatsweb in work on periods. 
